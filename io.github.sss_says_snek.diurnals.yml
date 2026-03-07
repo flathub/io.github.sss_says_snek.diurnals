@@ -16,6 +16,6 @@ modules:
     sources:
       - type: git
         url: "https://github.com/SSS-Says-Snek/diurnals.git"
-        tag: 1.0.2
-        commit: 7abba60796260a69e09335df560ef2aec6129951
+        tag: 1.0.3
+        commit: d20ea26d68a1fc872d3d59c6ac2c43d64880b28b
 
